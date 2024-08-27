@@ -1,1 +1,1 @@
-# Vak-fProje
+NewsApp
